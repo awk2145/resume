@@ -9,3 +9,9 @@
 3. [Univeristy of British Columbia, Vancouver](https://www.ubc.ca/)
 4. [Fort Lewis College, Durango](https://www.fortlewis.edu/)
 
+## Professional Interests
+
+1. Risk Management
+2. Climate Data
+3. Justice-based approaches
+4. Climate Finance
