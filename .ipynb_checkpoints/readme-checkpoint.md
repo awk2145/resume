@@ -1,6 +1,6 @@
 # Alissa Krochenski
 
-![my headshot](photo.jpg)
+![my headshot](photo.jpeg)
 
 ## Education
 
